@@ -25,7 +25,7 @@ h3 {
 
 
 
-.nav-links a {
+.navbar__container__links a {
     text-transform: uppercase;
     font-weight: 400;
     text-decoration: none;
@@ -39,15 +39,15 @@ h3 {
     color: var(--text--light);
     text-transform: uppercase;
 }
-.buy-btn {
+.btn {
     text-transform: uppercase;
     color: var(--text--light);
 }
-.infoblock {
+.section--info {
     color: var(--text--light);
     text-transform: uppercase;
 }
-.caption {
+.section--info__caption {
     text-transform: initial;
     text-align: justify;
 }
@@ -63,12 +63,12 @@ h3 {
 .preparing {
     text-transform: uppercase;
 }
-.aboutus h2 {
+.section--aboutus h2 {
     color: var(--text--dark);
 }
  /*Hover*/
 
-.nav-links a:hover {
+.navbar__container__links a:hover {
     color: var(--text--light);
     transition: 0.8s ease-out;
 }
@@ -77,13 +77,13 @@ h3 {
 
 
 @media (min-width: 768px) {
-    .buy-btn {
+    .buy {
         font-size: 16px;
     }
     h2 {
         font-size: 22px;
     }
-    .infoblock {
+    .section--info {
         font-size: 16px;
     }
 }
@@ -94,13 +94,13 @@ h3 {
     h2 {
         font-size: 26px;
     }
-    .infoblock {
+    .section--info {
         font-size: 18px;
     }
     h3 {
         font-size: 20px;
     }
-    .nav-links a {
+    .navbar__container__links a {
         color: var(--text--gray);
     }
 }
