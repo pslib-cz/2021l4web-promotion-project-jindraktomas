@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="262.002" viewBox="0 0 240 262.002">
+  <g id="Logo_černé_s-nápisem" transform="translate(-91 -54.998)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-607.442 -621.142)">
+      <g id="g64" transform="translate(718.442 676.14)">
+        <path id="path66" d="M.886,1.727A93.607,93.607,0,0,1-92.721-91.878,93.607,93.607,0,0,1,.886-185.485,93.606,93.606,0,0,1,94.492-91.878,93.605,93.605,0,0,1,.886,1.727M1.6-191.878a100,100,0,0,0-100,100,100,100,0,0,0,100,100,100,100,0,0,0,100-100,100,100,0,0,0-100-100" transform="translate(98.398 191.878)" fill="#1d1d1b"/>
+      </g>
+      <g id="g68" transform="translate(754.477 734.27)">
+        <path id="path70" d="M0,1.078H13.98L39.168-53.155,65.018,1.078H79.279L39.057-82.661Z" transform="translate(0 82.661)" fill="#1d1d1b"/>
+      </g>
+      <g id="g72" transform="translate(803.128 734.27)">
+        <path id="path74" d="M1.021,0h-13.98L-38.148,54.233-64,0h-14.26l40.222,83.739Z" transform="translate(78.258)" fill="#1d1d1b"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(-704.196 69.87)">
+      <path id="path118" d="M219.954-951.342h37.87v6.273h-37.87Z" transform="translate(618.15 1156.492)" fill="#1d1d1b"/>
+      <path id="path120" d="M219.954-869.437h37.87v6.273h-37.87Z" transform="translate(618.15 1110.294)" fill="#1d1d1b"/>
+      <path id="path122" d="M476.931-951.387h37.887v6.276H476.931Z" transform="translate(476.323 1156.517)" fill="#1d1d1b"/>
+      <path id="path124" d="M476.931-869.445h37.887v6.276H476.931Z" transform="translate(476.323 1110.298)" fill="#1d1d1b"/>
+      <path id="path126" d="M130.463-909.318H124.2V-951.26h6.267Z" transform="translate(671 1156.448)" fill="#1d1d1b"/>
+      <path id="path128" d="M200.328-909.318h-6.267V-951.26h6.267Z" transform="translate(632.571 1156.448)" fill="#1d1d1b"/>
+      <path id="path130" d="M135.554-910.268h31.7V-904h-31.7Z" transform="translate(664.752 1133.325)" fill="#1d1d1b"/>
+      <path id="path132" d="M219.954-910.39h37.87v6.273h-37.87Z" transform="translate(618.15 1133.393)" fill="#1d1d1b"/>
+      <path id="path134" d="M476.931-910.415h37.887v6.276H476.931Z" transform="translate(476.323 1133.407)" fill="#1d1d1b"/>
+      <g id="g136" transform="translate(879.796 205.178)">
+        <path id="path138" d="M0-53.833H7.195L20.159-81l13.3,27.17H40.8L20.1-95.785Z" transform="translate(0 95.785)" fill="#1d1d1b"/>
+      </g>
+      <g id="g140" transform="translate(908.257 205.178)">
+        <path id="path142" d="M-49.881,0h-7.195L-70.04,27.17-83.344,0h-7.34l20.7,41.952Z" transform="translate(90.684)" fill="#1d1d1b"/>
+      </g>
+      <g id="g144" transform="translate(997.645 205.132)">
+        <path id="path146" d="M-7.979-53.889h-6.527v-42L16.58-68.137V-95.874h6.464v41.952L-8.112-81.363Z" transform="translate(14.507 95.888)" fill="#1d1d1b"/>
+      </g>
+    </g>
+  </g>
+</svg>
