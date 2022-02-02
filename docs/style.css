@@ -13,14 +13,9 @@ header {
     height: 100vh;
     width: 100vw;
 }
-
-
 /*Menu*/
 
-
-
 /*burger*/
-
 .navbar__container {
     display: flex;
     justify-content: right;
@@ -385,17 +380,10 @@ header h1 {
 .footer_container__copyright {
     text-align: center;
 }
-
-
-/* Hover */
 .gallery__flex a:hover {
     transform: scale(1.1);
     transition: 1s;
 }
-
-
-
-
 @keyframes navLinkFade {
     from {
         opacity: 0;
@@ -422,7 +410,6 @@ header h1 {
         transform: translateX(100%);
     }
 }
-
 .toggle .navbar__container__burger__line1 {
     transform: rotate(-45deg) translate(-5px, 6px);
     transition: ease-in-out 1s;
