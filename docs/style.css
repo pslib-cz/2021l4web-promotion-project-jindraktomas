@@ -6,7 +6,7 @@ body {
     overflow-x: hidden;
 }
 header {
-    background-image: url(./img/header.jpg);
+    background-image: url(./img/bg_photo/header.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -32,7 +32,7 @@ header {
     right: 0px;
     height: 100vh;
     top: 0;
-    background-image: url(./img/burger_mobile.jpg);
+    background-image: url(./img/bg_photo/burger_mobile.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -173,10 +173,10 @@ header h1 {
     margin: 0 auto;
 }
 .material {
-    background-image: url(./img/material_bg.jpg);
+    background-image: url(./img/bg_photo/material_bg.jpg);
 }
 .making {
-    background-image: url(./img/vyroba_bg.jpg);
+    background-image: url(./img/bg_photo/vyroba_bg.jpg);
 }
 .section--info h2 {
     width: 200px;
@@ -222,7 +222,7 @@ header h1 {
     max-width: 400px;
 }
 .product-header {
-    background-image: url(./img/produkty-bg.jpg);
+    background-image: url(./img/bg_photo/produkty-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -234,7 +234,7 @@ header h1 {
     padding-top: 65px;
 }
 .block--bg {
-    background-image: url(./img/bg.jpg);
+    background-image: url(./img/bg_photo/bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -414,7 +414,7 @@ header h1 {
 
 .toggle .navbar__container__burger__line1 {
     transform: rotate(-45deg) translate(-5px, 6px);
-    transition: ease-in-out 1.5s;
+    transition: ease-in-out 1s;
     z-index: 1;
 }
 .toggle .navbar__container__burger__line2 {
@@ -424,7 +424,7 @@ header h1 {
 }
 .toggle .navbar__container__burger__line3 {
     transform: rotate(45deg) translate(-5px, -6px);
-    transition: ease-in-out 1.5s;
+    transition: ease-in-out 1s;
     z-index: 1;
 }
 @media (min-width: 550px) {
@@ -465,7 +465,7 @@ header h1 {
         height: 400px;
     }
     .material {
-        background-image: url(./img/material_bg768.jpg);
+        background-image: url(./img/bg_photo/material_bg768.jpg);
     }
     .section--info h2 {
         margin-top: 50px;
@@ -498,7 +498,7 @@ header h1 {
         height: 100%;
     }
     .making {
-        background-image: url(./img/vyroba_bg768.jpg);
+        background-image: url(./img/bg_photo/vyroba_bg768.jpg);
     }
     .making h2 {
         margin-top: 90px;
@@ -580,10 +580,10 @@ header h1 {
         max-width: 900px;
     }
     .material {
-        background-image: url(./img/material_bg1920.jpg);
+        background-image: url(./img/bg_photo/material_bg1920.jpg);
     }
     .making {
-        background-image: url(./img/vyroba_bg1920.jpg);
+        background-image: url(./img/bg_photo/vyroba_bg1920.jpg);
     }
     .section--aboutus__container {
         max-width: 700px;
